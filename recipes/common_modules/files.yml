@@ -1,8 +1,0 @@
----
-# yaml-language-server: $schema=https://schema.blue-build.org/module-v1.json
-type: files
-files:
-  - source: usr
-    destination: /usr
-  - source: etc
-    destination: /etc

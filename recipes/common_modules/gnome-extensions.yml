@@ -1,7 +1,0 @@
-type: gnome-extensions
-install:
-  - Just Perfection
-  - Tiling Shell
-  - Wiggle
-  - Control monitor brightness and volume with ddcutil
-uninstall: []
