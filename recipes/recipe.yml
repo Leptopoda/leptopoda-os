@@ -352,6 +352,8 @@ modules:
         - bazaar
         - google-noto-fonts-all
         - 
+
+  - type: dnf
     remove:
       packages:
         # bluefin all all
