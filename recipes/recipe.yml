@@ -7,8 +7,5 @@ base-image: ghcr.io/ublue-os/kinoite-main
 image-version: 42 # latest
 
 modules:
-  - from-file: common_modules/01-files.yml
-  - from-file: common_modules/02-rpm-ostree.yml
-  - from-file: common_modules/03-dnf.yml
-  - from-file: common_modules/04-default-flatpaks.yml
+  - from-file: common_modules/files.yml
   - type: signing
