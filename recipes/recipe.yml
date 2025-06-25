@@ -3,8 +3,8 @@
 name: leptopoda-os
 description: This is my personal OS image.
 
-base-image: ghcr.io/ublue-os/kinoite-main
-image-version: 42 # latest
+base-image: ghcr.io/ublue-os/aurora-dx # ghcr.io/ublue-os/kinoite-main
+image-version: stable
 
 modules:
   - from-file: common_modules/files.yml
