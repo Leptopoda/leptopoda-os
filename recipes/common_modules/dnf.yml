@@ -3,3 +3,21 @@
 type: dnf
 install:
   packages:
+    - sl
+    - pwgen
+    - binwalk
+    - xeyes
+    - bat
+    - yq
+    - fd-find
+    - stress-ng
+    - unrar
+    - subfinder
+    - difftastic
+    - lcov
+    - tokei
+    - plantuml
+    - python3-jsonpatch
+    - gphoto2
+    - mediainfo
+    - plasma-browser-integration
