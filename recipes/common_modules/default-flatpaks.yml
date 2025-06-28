@@ -40,11 +40,13 @@ system:
     - org.kde.falkon
     - org.kde.gwenview
     - org.kde.haruna # media player using libmpv
+    - org.kde.isoimagewriter
     - org.kde.kamoso
     - org.kde.kbibtex
     - org.kde.kcalc
     - org.kde.kclock
     - org.kde.kcolorchooser
+    - org.kde.kdenlive
     - org.kde.kdiff3
     - org.kde.kleopatra
     - org.kde.kontact
