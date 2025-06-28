@@ -10,6 +10,8 @@ install:
     - fd-find
     - gphoto2
     - lcov
+    - libdbusmenu
+    - libdbusmenu-gtk3
     - mediainfo
     - plantuml
     - plasma-browser-integration
