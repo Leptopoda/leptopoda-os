@@ -36,6 +36,7 @@ system:
     - org.geogebra.GeoGebra
     - org.gimp.GIMP
     - org.inkscape.Inkscape
+    - org.kde.elisa.desktop
     - org.kde.falkon
     - org.kde.gwenview
     - org.kde.haruna # media player using libmpv
