@@ -3,6 +3,7 @@
 type: dnf
 install:
   packages:
+    - applet-window-buttons
     - bat
     - binwalk
     - difftastic
