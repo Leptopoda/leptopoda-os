@@ -1,11 +1,16 @@
 ---
 # yaml-language-server: $schema=https://schema.blue-build.org/module-v1.json
 type: dnf
+repos:
+  cleanup: false
+  files: 
+    - https://pkg.cloudflare.com/cloudflared-ascii.repo
 install:
   packages:
     - applet-window-buttons
     - bat
     - binwalk
+    - cloudflared
     - difftastic
     - fd-find
     - gphoto2
