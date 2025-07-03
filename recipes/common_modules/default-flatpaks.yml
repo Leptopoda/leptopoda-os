@@ -22,6 +22,7 @@ system:
     - de.breitbandmessung.Breitbandmessung
     - de.bund.ausweisapp.ausweisapp2
     - de.mediathekview.MediathekView
+    - fr.handbrake.ghb
     - im.fluffychat.Fluffychat
     - io.beekeeperstudio.Studio
     - io.github.input_leap.input-leap
