@@ -41,3 +41,8 @@ These images are signed with [Sigstore](https://www.sigstore.dev/)'s [cosign](ht
 ```bash
 cosign verify --key cosign.pub ghcr.io/leptopoda/leptopoda-os
 ```
+
+## Hibernation
+
+Add a swapfile while keeping zram enabled.
+See: https://web.archive.org/web/20250626144353/https://docs.bazzite.gg/Advanced/swapfile/

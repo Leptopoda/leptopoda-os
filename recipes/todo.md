@@ -3,7 +3,6 @@ mprime
 libiconv
 openapi-generator-cli
 
-handbrake
 mpvScripts.mpris
 yt-dlp
 
