@@ -22,7 +22,73 @@ system:
     - de.breitbandmessung.Breitbandmessung
     - de.bund.ausweisapp.ausweisapp2
     - de.mediathekview.MediathekView
+    - dev.zed.Zed
+    - fr.handbrake.ghb- app.freelens.Freelens
+    - cc.arduino.IDE2
+    - com.bitwarden.desktop
+    - com.borgbase.Vorta
+    - com.getpostman.Postman
+    - com.github.tchx84.Flatseal
+    - com.gitlab.tipp10.tipp10
+    - com.google.Chrome
+    - com.jetbrains.IntelliJ-IDEA-Community
+    - com.nextcloud.desktopclient.nextcloud
+    - com.obsproject.Studio
+    - com.ranfdev.DistroShelf
+    - com.spotify.Client # brew install spicetify-cli && 
+    - com.sweethome3d.Sweethome3d
+    - com.usebruno.Bruno
+    - de.breitbandmessung.Breitbandmessung
+    - de.bund.ausweisapp.ausweisapp2
+    - de.mediathekview.MediathekView
+    - dev.zed.Zed
     - fr.handbrake.ghb
+    - im.fluffychat.Fluffychat
+    - io.beekeeperstudio.Studio
+    - io.github.input_leap.input-leap
+    - io.github.ungoogled_software.ungoogled_chromium
+    - io.mpv.Mpv
+    - nl.sarine.gpx-viewer
+    - org.audacityteam.Audacity
+    - org.blender.Blender
+    - org.bunkus.mkvtoolnix-gui
+    - org.chromium.Chromium
+    - org.darktable.Darktable
+    - org.geogebra.GeoGebra
+    - org.gimp.GIMP
+    - org.inkscape.Inkscape
+    - org.kde.elisa
+    - org.kde.falkon
+    - org.kde.gwenview
+    - org.kde.haruna # media player using libmpv
+    - org.kde.isoimagewriter
+    - org.kde.kamoso
+    - org.kde.kbibtex
+    - org.kde.kcalc
+    - org.kde.kclock
+    - org.kde.kcolorchooser
+    - org.kde.kdenlive
+    - org.kde.kdiff3
+    - org.kde.kleopatra
+    - org.kde.kontact
+    - org.kde.krita
+    - org.kde.ktorrent
+    - org.kde.ktouch
+    - org.kde.kweather
+    - org.kde.neochat
+    - org.kde.okular
+    - org.kde.skanpage
+    - org.kicad.KiCad
+    - org.libreoffice.LibreOffice
+    - org.localsend.localsend_app
+    - org.mozilla.firefox
+    - org.mozilla.Thunderbird
+    - org.musescore.MuseScore
+    - org.signal.Signal # flatpak override --env=SIGNAL_PASSWORD_STORE=kwallet6 org.signal.Signal
+    - org.sqlitebrowser.sqlitebrowser
+    - org.torproject.torbrowser-launcher
+    - org.videolan.VLC
+    - org.wireshark.Wireshark
     - im.fluffychat.Fluffychat
     - io.beekeeperstudio.Studio
     - io.github.input_leap.input-leap
