@@ -12,6 +12,7 @@ install:
     - binwalk
     - cloudflared
     - difftastic
+    - eza
     - fd-find
     - gphoto2
     - igt-gpu-tools # formerly intel-gpu-tools (contains intel_pgu_top)
@@ -37,7 +38,13 @@ install:
     - unrar
     - xeyes
     - yq
+    - zoxide
 remove:
   packages:
+    #- bash-color-prompt
+    #- bash-completion
+    #- plasma-wallpapers-dynamic-builder-bash-completion
+    #- plasma-wallpapers-dynamic-builder-zsh-completion
     - tailscale
+    #- zsh
   auto-remove: true
