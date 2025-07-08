@@ -29,3 +29,7 @@ install:
     - unrar
     - xeyes
     - yq
+remove:
+  packages:
+    - tailscale
+  auto-remove: true
