@@ -14,11 +14,13 @@ install:
     - difftastic
     - fd-find
     - gphoto2
+    - intel-compute-runtime # includes oneAPI-level-zero support (needed for blender)
     - intel-lpmd
     - lcov
     - libdbusmenu
     - libdbusmenu-gtk3
     - mediainfo
+    - oneVPL # replaces intel-media-sdk
     - plantuml
     - plasma-browser-integration
     - pwgen

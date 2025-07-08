@@ -31,7 +31,7 @@ system:
     - io.mpv.Mpv
     - nl.sarine.gpx-viewer
     - org.audacityteam.Audacity
-    - org.blender.Blender
+    - org.blender.Blender # flatpak override --env=CYCLES_ONEAPI_ALL_DEVICES=1 org.blender.Blender
     - org.bunkus.mkvtoolnix-gui
     - org.chromium.Chromium
     - org.darktable.Darktable
