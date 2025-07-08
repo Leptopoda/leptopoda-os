@@ -20,7 +20,6 @@ install:
     - libdbusmenu
     - libdbusmenu-gtk3
     - mediainfo
-    - oneVPL # replaces intel-media-sdk
     - plantuml
     - plasma-browser-integration
     - pwgen
