@@ -16,9 +16,11 @@ install:
     - gphoto2
     - intel-compute-runtime # includes oneAPI-level-zero support (needed for blender)
     - intel-lpmd
+    - intel-vpl-gpu-rt # successor of intel media sdk
     - lcov
     - libdbusmenu
     - libdbusmenu-gtk3
+    - libvpl # Intel video processing library (requires intel-vpl-gpu-rt)
     - mediainfo
     - plantuml
     - plasma-browser-integration
