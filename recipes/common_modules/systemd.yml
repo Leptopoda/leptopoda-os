@@ -4,4 +4,4 @@ type: systemd
 system:
   enabled:
     - intel_lpmd.service
-  
+    - powertop.service
