@@ -14,6 +14,7 @@ install:
     - difftastic
     - fd-find
     - gphoto2
+    - igt-gpu-tools # formerly intel-gpu-tools (contains intel_pgu_top)
     - intel-compute-runtime # includes oneAPI-level-zero support (needed for blender)
     - intel-lpmd
     - intel-vpl-gpu-rt # successor of intel media sdk
