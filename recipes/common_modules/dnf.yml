@@ -22,6 +22,7 @@ install:
     - libdbusmenu-gtk3
     - libvpl # Intel video processing library (requires intel-vpl-gpu-rt)
     - mediainfo
+    - oneapi-level-zero # one api compute library (requires intel-compute-runtime)
     - plantuml
     - plasma-browser-integration
     - pwgen
