@@ -12,7 +12,6 @@ install:
     - binwalk
     - cloudflared
     - difftastic
-    - eza
     - fd-find
     - gphoto2
     - igt-gpu-tools # formerly intel-gpu-tools (contains intel_pgu_top)
