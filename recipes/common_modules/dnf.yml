@@ -28,9 +28,11 @@ install:
     - plasma-browser-integration
     - pwgen
     - python3-jsonpatch
+    - rust-coreutils
     - sl
     - stress-ng
     - subfinder
+    - sudo-rs
     - tokei
     - unrar
     - xeyes
