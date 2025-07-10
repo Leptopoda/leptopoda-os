@@ -8,6 +8,7 @@ image-version: stable
 
 modules:
   - from-file: common_modules/bling.yml
+  - from-file: common_modules/brew.yml
   - from-file: common_modules/files.yml
   - from-file: common_modules/dnf.yml
   - from-file: common_modules/github-releases.yml
