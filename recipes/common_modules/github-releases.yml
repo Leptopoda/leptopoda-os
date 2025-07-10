@@ -3,3 +3,4 @@
 type: script
 snippets:
   - "curl -L https://github.com/eza-community/eza/releases/latest/download/eza_x86_64-unknown-linux-gnu.tar.gz | tar -xz -C /usr/bin/"
+  - "curl -L https://github.com/scopatz/nanorc/releases/download/2020.10.10/nanorc-2020.10.10.tar.gz | tar  -C /usr/share/nano/ -xz --wildcards '*.nanorc' --strip-components=1"
