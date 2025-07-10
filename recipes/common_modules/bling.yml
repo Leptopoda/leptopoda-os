@@ -3,4 +3,3 @@
 type: bling
 install:
   - ublue-update
-  - aurora-cli
