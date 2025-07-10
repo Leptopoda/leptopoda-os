@@ -1,66 +1,48 @@
+# packages
+
 mprime
-
-libiconv
-openapi-generator-cli
-
 mpvScripts.mpris
 yt-dlp
 
-# maybe
-
-uutils-coreutils
-uutils-findutils
-uutils-diffutils
-sudo-rs
-
 # devcontainers
 
-# flutter, dart, fvm, android studio, android ...
+- flutter, dart, fvm, android studio, android ...
+- latex
+- nodejs pnpm
+- php, composer
+- swi-prolog
+- rustup
 
-# latex
+# configs
 
-# nodejs pnpm
+- firefox config
+- libreoffice kde
+- mpv config
+- vscode config
+- ssh agent -> yubikey
 
-# php, composer
+# shell
 
-# swi-prolog
+- fish shell
+- oh-my-posh
+- atuin
+- bat
+- direnv
+- dysk
+- eza
+- fd
+- gh
+- glab
+- rg
+- shellcheck
+- tealdeer
+- trash-cli
+- ugrep
+- yq
+- zoxide
+  - "aurora-cli"
 
-# rustup
+# misc
 
-# firefox config
-
-# git config
-
-# htop config
-
-# libreoffice kde
-
-# mpv config
-
-# nano config
-
-# fish shell
-
-# fzf
-
-# eza
-
-# zoxide
-
-# oh-my-posh
-
-# spicetify
-
-# ssh agent -> yubikey
-
-# thunderbird?
-
-# vscode config
-
-# zed -> config
-
-# old todo
-
-- [ ] blender setup hardware accel `CYCLES_ONEAPI_ALL_DEVICES=1` oneapi
-- [ ] wrap flutter
-- [ ] do not rely on hard coded envs
+- spicetify
+- remove unused packages (take a look at the upstream list)

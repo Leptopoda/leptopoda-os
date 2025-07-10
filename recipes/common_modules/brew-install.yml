@@ -1,0 +1,26 @@
+---
+# yaml-language-server: $schema=https://schema.blue-build.org/module-v1.json
+type: script
+snippets:
+  - brew install spicetify-cli
+  - brew install atuin
+  - brew install bat
+  - brew install bash-preexec
+  - brew install chezmoi
+  - brew install direnv
+  - brew install dysk
+  - brew install eza
+  - brew install fd
+  - brew install gh
+  - brew install glab
+  - brew install rg
+  - brew install starship
+  - brew install shellcheck
+  - brew install stress-ng
+  - brew install tealdeer
+  - brew install trash-cli
+  - brew install television
+  - brew install uutils-coreutils
+  - brew install ugrep
+  - brew install yq
+  - brew install zoxide
