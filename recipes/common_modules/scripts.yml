@@ -2,5 +2,5 @@
 # yaml-language-server: $schema=https://schema.blue-build.org/module-v1.json
 type: script
 snippets:
-  - cp /usr/lib64/nextcloudsync_vfs_suffix.so /usr/lib64/qt5/plugins
-  - cp /usr/lib64/nextcloudsync_vfs_xattr.so /usr/lib64/qt5/plugins
+  - cp /usr/lib64/nextcloudsync_vfs_suffix.so /usr/lib64/qt6/plugins
+  - cp /usr/lib64/nextcloudsync_vfs_xattr.so /usr/lib64/qt6/plugins
