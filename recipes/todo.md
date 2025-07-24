@@ -24,7 +24,6 @@ yt-dlp
 # shell
 
 - fish shell
-- oh-my-posh
 - atuin
 - bat
 - direnv
@@ -40,9 +39,8 @@ yt-dlp
 - ugrep
 - yq
 - zoxide
-  - "aurora-cli"
+- "aurora-cli"
 
 # misc
 
-- spicetify
 - remove unused packages (take a look at the upstream list)
