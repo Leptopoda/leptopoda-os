@@ -13,7 +13,6 @@ system:
     - com.gitlab.tipp10.tipp10
     - com.google.Chrome
     - com.jetbrains.IntelliJ-IDEA-Community
-    - com.nextcloud.desktopclient.nextcloud
     - com.obsproject.Studio
     - com.ranfdev.DistroShelf
     - com.spotify.Client # brew install spicetify-cli && 
