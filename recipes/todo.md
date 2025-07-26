@@ -2,7 +2,6 @@
 
 mprime
 mpvScripts.mpris
-yt-dlp
 
 # devcontainers
 

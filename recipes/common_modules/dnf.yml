@@ -38,6 +38,7 @@ install:
     - uutils-coreutils
     - xeyes
     - yq
+    - yt-dlp
     - zoxide
 remove:
   packages:
