@@ -6,7 +6,6 @@ system:
   install:
     - app.freelens.Freelens
     - cc.arduino.IDE2
-    - com.bitwarden.desktop
     - com.borgbase.Vorta
     - com.getpostman.Postman
     - com.github.tchx84.Flatseal
@@ -15,7 +14,7 @@ system:
     - com.jetbrains.IntelliJ-IDEA-Community
     - com.obsproject.Studio
     - com.ranfdev.DistroShelf
-    - com.spotify.Client # brew install spicetify-cli && 
+    - com.spotify.Client # brew install spicetify-cli &&
     - com.sweethome3d.Sweethome3d
     - com.usebruno.Bruno
     - de.breitbandmessung.Breitbandmessung
