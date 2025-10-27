@@ -11,10 +11,13 @@ install:
     - applet-window-buttons
     - bat
     - binwalk
+    - clang
     - cloudflared
+    - cmake
     - difftastic
     - fd-find
     - gphoto2
+    - gtk3-devel
     - igt-gpu-tools # formerly intel-gpu-tools (contains intel_pgu_top)
     - intel-compute-runtime # includes oneAPI-level-zero support (needed for blender)
     - intel-lpmd
@@ -25,6 +28,7 @@ install:
     - libvpl # Intel video processing library (requires intel-vpl-gpu-rt)
     - mediainfo
     - nextcloud-client-devel
+    - ninja-build
     - oneapi-level-zero # one api compute library (requires intel-compute-runtime)
     - plantuml
     - plasma-browser-integration
