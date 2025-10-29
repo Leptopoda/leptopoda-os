@@ -12,6 +12,7 @@ install:
     - bat
     - binwalk
     - clang
+    - cloc
     - cloudflared
     - cmake
     - difftastic
