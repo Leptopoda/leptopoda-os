@@ -4,7 +4,7 @@ type: dnf
 repos:
   cleanup: false
   files:
-    - https://pkg.cloudflare.com/cloudflared-ascii.repo
+    - https://pkg.cloudflare.com/cloudflared.repo
 install:
   packages:
     - https://bitwarden.com/download/?app=desktop&platform=linux&variant=rpm
