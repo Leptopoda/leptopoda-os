@@ -3,8 +3,8 @@
 type: dnf
 repos:
   cleanup: false
-  # files:
-  #   - https://pkg.cloudflare.com/cloudflared.repo https://github.com/cloudflare/cloudflared/issues/1545 (see below)
+  files:
+    - https://pkg.cloudflare.com/cloudflared.repo
 install:
   packages:
     - https://bitwarden.com/download/?app=desktop&platform=linux&variant=rpm
@@ -13,7 +13,7 @@ install:
     - binwalk
     - clang
     - cloc
-    # - cloudflared https://github.com/cloudflare/cloudflared/issues/1545
+    - cloudflared
     - cmake
     - difftastic
     - fd-find
