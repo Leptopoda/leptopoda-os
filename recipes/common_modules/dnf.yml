@@ -23,6 +23,7 @@ install:
     - intel-compute-runtime # includes oneAPI-level-zero support (needed for blender)
     - intel-lpmd
     - intel-vpl-gpu-rt # successor of intel media sdk
+    - java-devel
     - lcov
     - libdbusmenu
     - libdbusmenu-gtk3
