@@ -13,7 +13,7 @@ install:
     - binwalk
     - clang
     - cloc
-    - cloudflared
+    #- cloudflared
     - cmake
     - difftastic
     - fd-find

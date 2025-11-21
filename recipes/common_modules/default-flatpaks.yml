@@ -4,7 +4,6 @@ type: default-flatpaks@v1
 notify: true
 system:
   install:
-    - app.freelens.Freelens
     - cc.arduino.IDE2
     - com.borgbase.Vorta
     - com.getpostman.Postman
