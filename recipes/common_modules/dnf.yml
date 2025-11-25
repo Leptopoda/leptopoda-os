@@ -17,6 +17,7 @@ install:
     - cmake
     - difftastic
     - fd-find
+    - gnupg2-scdaemon
     - gphoto2
     - gtk3-devel
     - igt-gpu-tools # formerly intel-gpu-tools (contains intel_pgu_top)
@@ -36,7 +37,6 @@ install:
     - plasma-browser-integration
     - pwgen
     - python3-jsonpatch
-    - scdaemon
     - sl
     - stress-ng
     - subfinder
