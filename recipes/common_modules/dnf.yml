@@ -36,6 +36,7 @@ install:
     - stress-ng
     - subfinder
     - sudo-rs
+    - thunderbird
     - tokei
     - unrar
     - uutils-coreutils
