@@ -10,8 +10,10 @@ install:
     - clang
     - cloc
     - cmake
+    - darktable
     - difftastic
     - fd-find
+    - gimp
     - gnupg2-scdaemon
     - gphoto2
     - gtk3-devel
