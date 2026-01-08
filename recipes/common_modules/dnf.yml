@@ -34,6 +34,7 @@ install:
     - pwgen
     - python3-jsonpatch
     - sl
+    - snapper
     - stress-ng
     - subfinder
     - sudo-rs
