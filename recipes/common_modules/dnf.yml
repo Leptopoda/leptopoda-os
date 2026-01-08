@@ -10,7 +10,6 @@ install:
     - clang
     - cloc
     - cmake
-    - darktable
     - difftastic
     - fd-find
     - gimp
